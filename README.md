@@ -5,6 +5,8 @@ Youtube Video (click the image) - [![Acid Drip Demo](https://img.youtube.com/vi/
 
 An RP2040-based acid bassline synthesizer and drum machine built on the Mozzi audio library. Two instruments in one device, a 16-step acid sequencer and a 16-pattern drum groove box running simultaneously on dual cores with a 320×240 ILI9341 TFT display and 16 Cherry MX pads.
 
+NOTE: the images of the synth are V1.  V2 is what I hve provided in this repo and looks a littke different (extra pot for mix added)
+
 ![Platform](https://img.shields.io/badge/platform-RP2040-blue) ![IDE](https://img.shields.io/badge/IDE-Arduino-teal) ![Audio](https://img.shields.io/badge/audio-Mozzi-green)
 
 <p align="center">
