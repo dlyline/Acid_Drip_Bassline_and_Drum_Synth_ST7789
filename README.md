@@ -296,6 +296,6 @@ The drum audio path on GP2 uses a separate `PWMAudio` DMA instance at 488kHz car
 ## Credits
 
 - Acid synthesis engine adapted from *Badass Bass*  https://www.youtube.com/watch?v=MvDILHYImc4
-- Drum engine ported from **DrumKid** by Matt Bradshaw  https://www.youtube.com/watch?v=509iZGjnVhM
+- Drum engine adapted from **DrumKid** by Matt Bradshaw  https://www.youtube.com/watch?v=509iZGjnVhM
 - Built with the [Mozzi](https://sensorium.github.io/Mozzi/) audio library
 - Hardware design and firmware by Marcus ([lonesoulsurfer](https://github.com/lonesoulsurfer))
