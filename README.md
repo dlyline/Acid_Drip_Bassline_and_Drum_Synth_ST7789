@@ -1,5 +1,11 @@
 # Acid Drip - Bassline Synth & Drum Machine
 
+<p align="center">
+  <img src="ST7789_ALIEXPRESS.jpg" width="50%" alt="TFT" />
+  &nbsp;
+  <img src="ST7789_DIY.jpg" width="50%" alt="DIY" />
+</p>
+
 Youtube Video (click the image) - [![Acid Drip Demo](https://img.youtube.com/vi/anotb2mvv04/maxresdefault.jpg)](https://youtu.be/anotb2mvv04) 
 
 
